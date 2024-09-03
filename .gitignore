@@ -1,0 +1,13 @@
+htmlcov/
+venv**
+*pyc
+*swp
+**.DS_Store
+**egg-info**
+.coverage
+.vscode
+*.sqlite3
+*.plist
+
+# Environment File
+.env
